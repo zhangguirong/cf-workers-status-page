@@ -37,3 +37,15 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+
+  - id: telegraph-image-6nq.pages.dev
+    name: telegraph image page
+    url: 'https://telegraph-image-6nq.pages.dev/'
+    method: GET
+    expectStatus: 200
+
+  - id: zhangguirong.github.io
+    name: My Blog
+    url: 'https://zhangguirong.github.io/'
+    method: GET
+    expectStatus: 200
